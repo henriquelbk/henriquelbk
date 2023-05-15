@@ -9,6 +9,6 @@
 ##
 
 - 🔭 I’m currently working on sales
-- 🌱 I’m currently learning JS, HTML and CSS
+- 🌱 I’m currently learning React
 - ✍ Interested in AI, Web3, Blockchain and it's applications
 - 💬 Ask me about anything
