@@ -9,7 +9,8 @@
 ##
 
 - 🔭 I’m currently working with credit analysis
-- 🌱 I’m currently studying React, Typescript, SQL, blockchain and smart contracts
+- 💻 I’m currently building applications for Web3
+- 🎯 Focus: solidity, blockchain, smartcontracts    
 - ✍ Interested in AI, Web3, Blockchain and it's applications
 - ⛰️ Also passioned about rock climbing, jiu-jitsu, cooking, chess and the list could go on forever...
 - 💬 Ask me about anything
