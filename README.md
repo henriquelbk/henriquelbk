@@ -8,7 +8,7 @@
 
 ##
 
-- 🔭 I’m currently working with credit analysis
+- 🔭 I’m currently working on credit analysis
 - 💻 I’m currently building applications for Web3
 - 🎯 Focus: Solidity, Next.js, Blockchain and Smartcontracts    
 - ✍ Passionate about AI, Web3, Blockchain and it's applications
