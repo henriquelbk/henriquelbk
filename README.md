@@ -8,9 +8,9 @@
 
 ##
 
-- 🔭 I’m currently working on credit analysis
+- 🔭 I’m a fullstack software developer
 - 💻 I’m currently building applications for Web3
-- 🎯 Focus: Solidity, Next.js, Blockchain and Smartcontracts    
+- 🎯 Focus: Typescript, Next.js, Solidity, Blockchain and Smartcontracts    
 - ✍ Passionate about AI, Web3, Blockchain and it's applications
 - ⛰️ Also passioned about rock climbing, jiu-jitsu, cooking, chess and the list could go on forever...
 - 💬 Ask me about anything
